@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import ItemCard from "./ItemCard.vue";
+import ItemCard from "./Itemcard.vue";
 import Modal from "@/components/Modal.vue";
 import ItemForm from "./ItemForm.vue";
 import { useItemStore } from "../../../stores/itemStore";
