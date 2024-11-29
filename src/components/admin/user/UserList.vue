@@ -51,7 +51,7 @@ import Modal from "@/components/Modal.vue";
 
 import UserForm from "@/components/admin/user/UserForm.vue";
 
-import eventBus from "@/utils/eventBus";
+import eventBus from "@/utils/EventBus";
 
 export default {
   name: "users",
