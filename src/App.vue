@@ -34,12 +34,11 @@ import Header from "./components/dashboard/Header.vue";
 
 import Sidebar from "./components/dashboard/Sidebar.vue";
 
-import { EventBus } from "./utils/eventBus";
+import { EventBus } from "./utils/EventBus.js";
 
 export default {
   components: {
     Header,
-    EventBus,
     Sidebar,
   },
 
