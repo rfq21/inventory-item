@@ -39,7 +39,7 @@ import { EventBus } from "./utils/eventBus";
 export default {
   components: {
     Header,
-
+    EventBus,
     Sidebar,
   },
 
